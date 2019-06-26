@@ -1,0 +1,18 @@
+# deb cdrom:[Ubuntu 16.04 LTS _Xenial Xerus_ - Release amd64 (20160420.1)]/ xenial main restricted
+deb-src https://archive.ubuntu.com/ubuntu xenial main restricted #Added by software-properties
+deb https://mirrors.aliyun.com/ubuntu/ xenial main restricted
+deb-src https://mirrors.aliyun.com/ubuntu/ xenial main restricted multiverse universe #Added by software-properties
+deb https://mirrors.aliyun.com/ubuntu/ xenial-updates main restricted
+deb-src https://mirrors.aliyun.com/ubuntu/ xenial-updates main restricted multiverse universe #Added by software-properties
+deb https://mirrors.aliyun.com/ubuntu/ xenial universe
+deb https://mirrors.aliyun.com/ubuntu/ xenial-updates universe
+deb https://mirrors.aliyun.com/ubuntu/ xenial multiverse
+deb https://mirrors.aliyun.com/ubuntu/ xenial-updates multiverse
+deb https://mirrors.aliyun.com/ubuntu/ xenial-backports main restricted universe multiverse
+deb-src https://mirrors.aliyun.com/ubuntu/ xenial-backports main restricted universe multiverse #Added by software-properties
+deb https://archive.canonical.com/ubuntu xenial partner
+deb-src https://archive.canonical.com/ubuntu xenial partner
+deb https://mirrors.aliyun.com/ubuntu/ xenial-security main restricted
+deb-src https://mirrors.aliyun.com/ubuntu/ xenial-security main restricted multiverse universe #Added by software-properties
+deb https://mirrors.aliyun.com/ubuntu/ xenial-security universe
+deb https://mirrors.aliyun.com/ubuntu/ xenial-security multiverse
